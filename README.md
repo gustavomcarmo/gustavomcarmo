@@ -1,4 +1,4 @@
-### Hi there 👋
+![gustavomcarmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavomcarmo&show_icons=true&hide_title=true) ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pixep&layout=compact&hide_title=true)
 
 <!--
 **gustavomcarmo/gustavomcarmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
